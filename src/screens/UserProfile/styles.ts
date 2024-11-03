@@ -5,7 +5,7 @@ export const Container = styled.View`
 `;
 
 export const ContainerUserProfile = styled.View`
-  top: 220px;
+  top: 230px;
   height: 230px;
   justify-content: center;
   align-items: center;

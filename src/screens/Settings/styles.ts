@@ -10,7 +10,6 @@ export const ContainerSettings = styled.View`
   justify-content: center;
   align-items: center;
   margin: 24px 12px;
-
   justify-content: space-between;
 `;
 

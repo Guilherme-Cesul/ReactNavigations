@@ -23,7 +23,7 @@ export const LoginInput = styled.TextInput`
   width: 100%;
   border-radius: 5px;
   margin: 8px 0px 8px 0px;
-  color: #c0c0c0;
+  color: #757474;
 `;
 
 export const PasswordInput = styled.TextInput`
@@ -31,7 +31,7 @@ export const PasswordInput = styled.TextInput`
   height: 35px;
   width: 100%;
   border-radius: 5px;
-  color: #c0c0c0;
+  color: #757474;
 `;
 
 export const Button = styled.TouchableOpacity`

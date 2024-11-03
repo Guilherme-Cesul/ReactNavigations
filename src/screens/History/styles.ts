@@ -5,12 +5,11 @@ export const Container = styled.View`
 `;
 
 export const ContainerHistory = styled.View`
-  top: 33%;
+  top: 230px;
   height: 230px;
   justify-content: center;
   align-items: center;
   margin: 24px 12px;
-
   justify-content: space-between;
 `;
 
