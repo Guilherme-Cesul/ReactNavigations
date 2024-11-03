@@ -19,7 +19,7 @@ export const Title = styled.Text`
   font-size: 24px;
   font-weight: bold;
   text-align: center;
-  margin-bottom: 80px
+  margin-bottom: 80px;
 `;
 
 export const Image = styled.Image`

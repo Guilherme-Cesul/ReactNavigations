@@ -20,7 +20,7 @@ export function Login() {
   const navigation = useNavigation();
 
   function handleUserProfile() {
-    navigation.navigate("userProfile");
+    navigation.navigate("userProfile", { name });
   }
 
   return (

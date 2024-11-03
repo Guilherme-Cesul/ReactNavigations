@@ -13,7 +13,7 @@ export const ContainerUserProfile = styled.View`
 `;
 
 export const ContainerTitle = styled.View`
-    width: 250px;
+  width: 250px;
 `;
 
 export const Title = styled.Text`
